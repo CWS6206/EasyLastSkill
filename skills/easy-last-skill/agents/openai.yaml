@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyLastSkill"
+  short_description: "Deutsche Recherche zu aktuellen Signalen."
+  default_prompt: "Nutze $easy-last-skill, um die letzten 30 Tage zu einem Thema auf Deutsch zu recherchieren."

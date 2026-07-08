@@ -1,0 +1,11 @@
+[project]
+name = "easy-last-skill"
+version = "0.1.0"
+description = "Deutschsprachige Recherche-Skill fuer aktuelle Signale der letzten Tage"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "GPL-3.0-only"
+authors = [
+  { name = "Dr. René Bäder PhDs)" }
+]
+dependencies = []
