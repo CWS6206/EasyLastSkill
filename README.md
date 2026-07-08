@@ -2,7 +2,7 @@
 
 EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen.
 
-Autor: Dr. René Bäder PhDs)  
+Autor: Dr. René Bäder PhDs  
 Lizenz: GNU General Public License v3.0
 
 ## Installation
