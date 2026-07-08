@@ -1,0 +1,8 @@
+# Beispielkonfiguration fuer EasyLastSkill
+thema = "OpenAI Codex"
+tage = 30
+max_treffer = 10
+quellen = ["news", "hn", "github", "reddit", "arxiv", "youtube"]
+profil = "auto"
+format = "markdown"
+speicherort = "easy-last-skill-bericht.md"
